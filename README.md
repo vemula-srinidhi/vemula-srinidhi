@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vemula-srinidhi
-- 👀 I’m interested in ...cloud computing
+- 👀 I’m interested in ...Data Science and cloud computing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vemulasrinidhi6@gmail.com
